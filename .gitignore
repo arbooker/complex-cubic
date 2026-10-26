@@ -1,0 +1,11 @@
+/work/
+__pycache__/
+*.pyc
+/src/certify
+/src/euclid
+/src/euclid_platt
+/src/euclid_mpfi
+/src/ne_sweep
+/src/ne_chain
+/src/test_rounding
+.DS_Store

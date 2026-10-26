@@ -1,0 +1,26 @@
+Data licences
+
+LMFDB field list: CC BY-SA 4.0
+
+data/fields.csv is derived from The LMFDB Collaboration's number-field
+database and is distributed under Creative Commons Attribution-ShareAlike
+4.0 International:
+
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Source: https://www.lmfdb.org/NumberField/
+Data licence: https://www.lmfdb.org/license
+The source records were filtered and normalized to CSV; see THIRD_PARTY.md.
+
+Authors' data rights: CC0 1.0 Universal
+
+To the extent that the authors hold copyright and related rights in the data
+under data/ and results/, they dedicate those rights to the public domain
+under CC0 1.0 Universal:
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The complete legal text is in LICENSES/CC0-1.0.txt.
+
+This dedication does not purport to waive rights held by third parties or
+replace the CC BY-SA 4.0 terms of the LMFDB-derived field list.
